@@ -26,11 +26,3 @@
 * **💬 Discord:** https://discord.gg/fghstudio
 
 > *Note: Our automation and web systems are architecturally independent from our gaming projects.*
-
-​✨ Next Gen: Research & Development for the Hytale ecosystem.
-​⚙️ Minestom: Implementation of high-performance server architectures.
-​📦 Modding: Advanced Minecraft Mod Development (Java/Kotlin).
-​CONNECT & PROJECTS
-​🔗 Website: https://fghstudio.eu
-​💬 Discord: https://discord.gg/fghstudio
-​Note: Our automation and web systems are
